@@ -1,0 +1,1 @@
+Vite React frontend. Build with `npm run build` and upload `dist/` as publish directory on Render Static Site. Set VITE_API_BASE env var to your backend API URL.
