@@ -1,4 +1,4 @@
-const API_BASE = "https://toto-1-ce43.onrender.com";
+const API_BASE = "https://toto-1-ce43.onrender.com/api";
 
 export async function fetchTodos() {
   const res = await fetch(`${API_BASE}/todos/`);
